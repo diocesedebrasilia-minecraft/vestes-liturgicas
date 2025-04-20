@@ -45,7 +45,7 @@ app.controller('ProgressController', progressController)
 app.run(function ($rootScope, $state) {
     $rootScope.$on('$stateChangeSuccess', function (event, toState) {
         // Atualizar o título da página dinamicamente com base no estado atual
-        $rootScope.pageTitle = toState.title || 'DeMolay Alumni Paraíba'; // Título padrão
+        $rootScope.pageTitle = toState.title || 'Diocese de Brasília do Minecraft'; // Título padrão
     });
 });
 
