@@ -6,6 +6,7 @@ import { diretoriaController } from "../controller/DiretoriaController.js";
 import { downloadController } from "../controller/DownloadsController.js";
 import { gestoesAlumniController } from "../controller/GestoesAlumniController.js";
 import { progressController } from "../controller/progressController.js";
+import { seminaristaController } from "../controller/seminaristaController.js";
 import { senioresRegularesController } from "../controller/SenioresRegularesController.js";
 
 app.config([
@@ -32,6 +33,7 @@ app.config([
     }
 ]);
 
+app.controller('seminaristaController', seminaristaController)
 app.controller('downloadController', downloadController);
 app.controller('colegiosController', colegiosController);
 app.controller('ColegioController', colegioController);

@@ -11,10 +11,11 @@ app.config(function ($stateProvider, $urlRouterProvider, $httpProvider) {
             title: 'Página Inicial',
             templateUrl: 'views/home.html'
         })
-        .state('diretoria', {
-            url: '/diretoria',
-            title: 'Diretoria Executiva',
-            templateUrl: 'views/diretoria.html'
+        .state('seminaristas', {
+            url: '/406215da',
+            title: 'Vestes Litúrgicas | Seminaristas',
+            templateUrl: 'views/seminarista.html',
+            controller: 'seminaristaController'
         })
         .state('conselhoFiscal', {
             url: '/conselho-fiscal',
