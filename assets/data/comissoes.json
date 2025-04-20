@@ -1,0 +1,122 @@
+{
+    "comissoes": [
+        {
+            "orcamento-financas": {
+                "nome": "Orçamento e Finanças",
+                "membros": [
+                    {
+                        "cargo": "Presidente",
+                        "nome": "Gregory Ferreira Mayer",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    },
+                    {
+                        "cargo": "Membro",
+                        "nome": "Emerson Tomé da Silva",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    },
+                    {
+                        "cargo": "Membro",
+                        "nome": "Halisson Rodrigues Gonçalves",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    },
+                    {
+                        "cargo": "Membro",
+                        "nome": "Pedro Augusto Alves Bellem",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    },
+                    {
+                        "cargo": "Membro",
+                        "nome": "Rodrigo Ferreira de Brito",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    },
+                    {
+                        "cargo": "Membro",
+                        "nome": "Zarrillo Paulo de Brito",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    }
+                ]
+            },
+            "educacao-cultura": {
+                "nome": "Educação, Cultura e Apoio Profissional",
+                "membros": [
+                    {
+                        "cargo": "Presidente",
+                        "nome": "Kawhan Laurindo de Lima",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    },
+                    {
+                        "cargo": "Membro",
+                        "nome": "Aramis Lins Barreto Neto",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    },
+                    {
+                        "cargo": "Membro",
+                        "nome": "Eraldo Nascimento Calixto Júnior",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    },
+                    {
+                        "cargo": "Membro",
+                        "nome": "Nicollas Antônio Marques da Rocha",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    }
+                ]
+            },
+            "relacoes-fraternais": {
+                "nome": "Relações Fraternais",
+                "membros": [
+                    {
+                        "cargo": "Presidente",
+                        "nome": "Murilo Cerqueira Dória",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    },
+                    {
+                        "cargo": "Membro",
+                        "nome": "Carlos José Crespo Santos",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    },
+                    {
+                        "cargo": "Membro",
+                        "nome": "Halisson Rodrigues Gonçalves",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    },
+                    {
+                        "cargo": "Membro",
+                        "nome": "Itaberaba Nazareno Cavalcante Júnior",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    },
+                    {
+                        "cargo": "Membro",
+                        "nome": "Josimar França da Silva Filho",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    }
+                ]
+            },
+            "marketing": {
+                "nome": "Comunicação e Marketing",
+                "membros": [
+                    {
+                        "cargo": "Presidente",
+                        "nome": "Teste",
+                        "colegio": "",
+                        "foto": "../../assets/img/diretoria/user_senior.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

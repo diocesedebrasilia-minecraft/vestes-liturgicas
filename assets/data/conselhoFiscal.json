@@ -1,0 +1,176 @@
+[
+    {
+        "cargo": "Presidente",
+        "nome": "Antônio Pedro",
+        "foto": "assets/img/diretoria/user_senior.jpg",
+        "colegio": "João Pessoa Nº 001",
+        "capitulo": "João Pessoa Nº 011",
+        "socialMedia": [
+            {
+                "link": "https://wa.me/83991458280",
+                "icone": "fab fa-whatsapp",
+                "name": "Whatsapp"
+            },
+            {
+                "link": "mailto:presidente@demolayalumnipb.com.br",
+                "icone": "fab fa-google",
+                "name": "Gmail"
+            },
+            {
+                "link": "https://linkedin.com/in/emanuelgomesqa",
+                "icone": "fab fa-linkedin-in",
+                "name": "LinkedIn"
+            },
+            {
+                "link": "https://www.instagram.com/emanuelqa_",
+                "icone": "fab fa-instagram",
+                "name": "Instagram"
+            }
+        ]
+    },
+    {
+        "cargo": "Membro Titular",
+        "nome": "Mateus Alves",
+        "foto": "assets/img/diretoria/user_senior.jpg",
+        "colegio": "João Pessoa Nº 001",
+        "capitulo": "João Pessoa Nº 011",
+        "socialMedia": [
+            {
+                "link": "https://wa.me/83991458280",
+                "icone": "fab fa-whatsapp",
+                "name": "Whatsapp"
+            },
+            {
+                "link": "mailto:presidente@demolayalumnipb.com.br",
+                "icone": "fab fa-google",
+                "name": "Gmail"
+            },
+            {
+                "link": "https://linkedin.com/in/emanuelgomesqa",
+                "icone": "fab fa-linkedin-in",
+                "name": "LinkedIn"
+            },
+            {
+                "link": "https://www.instagram.com/emanuelqa_",
+                "icone": "fab fa-instagram",
+                "name": "Instagram"
+            }
+        ]
+    },
+    {
+        "cargo": "Membro Titular",
+        "nome": "Edmar Cabral",
+        "foto": "assets/img/diretoria/user_senior.jpg",
+        "colegio": "João Pessoa Nº 001",
+        "capitulo": "João Pessoa Nº 011",
+        "socialMedia": [
+            {
+                "link": "https://wa.me/83991458280",
+                "icone": "fab fa-whatsapp",
+                "name": "Whatsapp"
+            },
+            {
+                "link": "mailto:presidente@demolayalumnipb.com.br",
+                "icone": "fab fa-google",
+                "name": "Gmail"
+            },
+            {
+                "link": "https://linkedin.com/in/emanuelgomesqa",
+                "icone": "fab fa-linkedin-in",
+                "name": "LinkedIn"
+            },
+            {
+                "link": "https://www.instagram.com/emanuelqa_",
+                "icone": "fab fa-instagram",
+                "name": "Instagram"
+            }
+        ]
+    },
+    {
+        "cargo": "Membro Suplente",
+        "nome": "Diego Oliveira",
+        "foto": "assets/img/diretoria/user_senior.jpg",
+        "colegio": "João Pessoa Nº 001",
+        "capitulo": "João Pessoa Nº 011",
+        "socialMedia": [
+            {
+                "link": "https://wa.me/83991458280",
+                "icone": "fab fa-whatsapp",
+                "name": "Whatsapp"
+            },
+            {
+                "link": "mailto:presidente@demolayalumnipb.com.br",
+                "icone": "fab fa-google",
+                "name": "Gmail"
+            },
+            {
+                "link": "https://linkedin.com/in/emanuelgomesqa",
+                "icone": "fab fa-linkedin-in",
+                "name": "LinkedIn"
+            },
+            {
+                "link": "https://www.instagram.com/emanuelqa_",
+                "icone": "fab fa-instagram",
+                "name": "Instagram"
+            }
+        ]
+    },
+    {
+        "cargo": "Membro Suplente",
+        "nome": "Émerson Alves",
+        "foto": "assets/img/diretoria/user_senior.jpg",
+        "colegio": "João Pessoa Nº 001",
+        "capitulo": "João Pessoa Nº 011",
+        "socialMedia": [
+            {
+                "link": "https://wa.me/83991458280",
+                "icone": "fab fa-whatsapp",
+                "name": "Whatsapp"
+            },
+            {
+                "link": "mailto:presidente@demolayalumnipb.com.br",
+                "icone": "fab fa-google",
+                "name": "Gmail"
+            },
+            {
+                "link": "https://linkedin.com/in/emanuelgomesqa",
+                "icone": "fab fa-linkedin-in",
+                "name": "LinkedIn"
+            },
+            {
+                "link": "https://www.instagram.com/emanuelqa_",
+                "icone": "fab fa-instagram",
+                "name": "Instagram"
+            }
+        ]
+    },
+    {
+        "cargo": "Membro Suplente",
+        "nome": "Ítalo Ferreira",
+        "foto": "assets/img/diretoria/user_senior.jpg",
+        "colegio": "João Pessoa Nº 001",
+        "capitulo": "João Pessoa Nº 011",
+        "socialMedia": [
+            {
+                "link": "https://wa.me/83991458280",
+                "icone": "fab fa-whatsapp",
+                "name": "Whatsapp"
+            },
+            {
+                "link": "mailto:presidente@demolayalumnipb.com.br",
+                "icone": "fab fa-google",
+                "name": "Gmail"
+            },
+            {
+                "link": "https://linkedin.com/in/emanuelgomesqa",
+                "icone": "fab fa-linkedin-in",
+                "name": "LinkedIn"
+            },
+            {
+                "link": "https://www.instagram.com/emanuelqa_",
+                "icone": "fab fa-instagram",
+                "name": "Instagram"
+            }
+        ]
+    }
+]

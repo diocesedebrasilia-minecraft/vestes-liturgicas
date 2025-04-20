@@ -1,0 +1,1615 @@
+{
+    "count": 25,
+    "data": [
+        {
+            "name": "João Pessoa",
+            "nrColegio": "001",
+            "cidade": "João Pessoa - PB",
+            "situacao": "Ativo",
+            "fundacao": "20/08/2003",
+            "instalacao": "20/08/2003",
+            "anuidade":  "31/03/2026",
+            "gestao": "2025/2026",
+            "brasao": "assets/img/colegios/colegio_001.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "Pedro Augusto Alves Bellem",
+                    "idDm": "47716"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "Edmar Ferreira Cabral da Silva",
+                    "idDm": "18526"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "Mateus da Silva Ferreira",
+                    "idDm": "79301"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "Mateus Brito Alves",
+                    "idDm": "62515"
+                }
+            ]
+        },
+        {
+            "name": "Deus, Pátria e Família",
+            "nrColegio": "005",
+            "cidade": "Campina Grande - PB",
+            "situacao": "Ativo",
+            "fundacao": "11/02/2007",
+            "instalacao": "11/02/2007",
+            "anuidade":  "31/03/2026",
+            "gestao": "2025/2026",
+            "brasao": "assets/img/colegios/colegio_005.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "Daniel Ferreira Alves",
+                    "idDm": "121617"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "Dimas Gabriel Sales Diniz",
+                    "idDm": "74984"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "Igor Arthur Ferreira Ramos",
+                    "idDm": "105228"
+                }
+            ]
+        },
+        {
+            "name": "Tio José Ivan de Alencar e Silva",
+            "nrColegio": "029",
+            "cidade": "Cajazeiras - PB",
+            "situacao": "Ativo",
+            "fundacao": "",
+            "instalacao": "",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Tio José de Almeida Soares",
+            "nrColegio": "030",
+            "cidade": "São Bento - PB",
+            "situacao": "Ativo",
+            "fundacao": "",
+            "instalacao": "",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Defensores das Sete Virtudes",
+            "nrColegio": "031",
+            "cidade": "Sousa - PB",
+            "situacao": "Ativo",
+            "fundacao": "",
+            "instalacao": "",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Filhos de Rá",
+            "nrColegio": "073",
+            "cidade": "Patos - PB",
+            "situacao": "Inativo",
+            "fundacao": "03/09/2015",
+            "instalacao": "03/09/2015",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Cavaleiros da Alvorada",
+            "nrColegio": "112",
+            "cidade": "Catolé do Rocha - PB",
+            "situacao": "Ativo",
+            "fundacao": "16/02/2018",
+            "instalacao": "16/02/2018",
+            "anuidade":  "31/03/2026",
+            "gestao": "2025/2026",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "Gustavo de Brito Alves",
+                    "idDm": "39904"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "Francisco da Silva Cordeiro Junior",
+                    "idDm": "41749"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "Jurandir Garcia dos Santos Neto",
+                    "idDm": "26832"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "Leandro Sousa Lima",
+                    "idDm": "5582"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "Daniel Vitor Nunes dos Santos",
+                    "idDm": "26833"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "Jardel Suassuna Oliveira",
+                    "idDm": "47691"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "Isley dos Santos Freitas",
+                    "idDm": "23283"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "Hiago Alves Freitas Rosado Xavier",
+                    "idDm": "26480"
+                }
+            ]
+        },
+        {
+            "name": "Guardiões da Virtude Paulistense",
+            "nrColegio": "157",
+            "cidade": "Paulista - PB",
+            "situacao": "Ativo",
+            "fundacao": "15/10/2018",
+            "instalacao": "15/10/2018",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Gilberto Henriques da Fonseca",
+            "nrColegio": "169",
+            "cidade": "Picuí - PB",
+            "situacao": "Ativo",
+            "fundacao": "05/01/2019",
+            "instalacao": "05/01/2019",
+            "anuidade":  "31/03/2026",
+            "gestao": "2025/2026",
+            "brasao": "assets/img/colegios/colegio_169.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "Julio César Costa e Silva",
+                    "idDm": "49701"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "Nicolas Kayan Santos Silva",
+                    "idDm": "64939"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "Igor Guimarães Barros",
+                    "idDm": "43589"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "José Vandeilson Souza Medeiros",
+                    "idDm": "43588"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "Augusto César Alves Santos",
+                    "idDm": "78097"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "Ramoni Reus Barros Negreiros",
+                    "idDm": "64940"
+                }
+            ]
+        },
+        {
+            "name": "Ariosvaldo Alvez de Almeida",
+            "nrColegio": "184",
+            "cidade": "Itaporanga - PB",
+            "situacao": "Ativo",
+            "fundacao": "29/04/2019",
+            "instalacao": "29/04/2019",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Águia de Haya",
+            "nrColegio": "192",
+            "cidade": "Areia - PB",
+            "situacao": "Ativo",
+            "fundacao": "11/07/2019",
+            "instalacao": "11/07/2019",
+            "anuidade":  "31/03/2026",
+            "gestao": "2025/2026",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "Joselandio Cardoso da Silva Junior",
+                    "idDm": "67989"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "Antonio Levi Felizardo da Silva",
+                    "idDm": "39011"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "Breno Henrique Martins Silva",
+                    "idDm": "78416"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "Ewerton Guilherme Alves de Sousa",
+                    "idDm": "27171"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "Tiago Romero de Melo Cavalcante",
+                    "idDm": "45477"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "Emanuel dos Santos Lima",
+                    "idDm": "64332"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "Johnatan Marques Araújo da Cruz",
+                    "idDm": "64334"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "Wanderson Mateus Ursulino de Lima",
+                    "idDm": "47681"
+                }
+            ]
+        },
+        {
+            "name": "Guerreiros da Luz",
+            "nrColegio": "220",
+            "cidade": "Guarabira - PB",
+            "situacao": "Ativo",
+            "fundacao": "13/12/2019",
+            "instalacao": "13/12/2019",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Soberanos Ideais",
+            "nrColegio": "244",
+            "cidade": "Conceição - PB",
+            "situacao": "Ativo",
+            "fundacao": "25/02/2020",
+            "instalacao": "25/02/2020",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Paladinos do Vale",
+            "nrColegio": "269",
+            "cidade": "Sousa - PB",
+            "situacao": "Inativo",
+            "fundacao": "12/05/2018",
+            "instalacao": "19/05/2018",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Sávio Wanderley de Medeiros",
+            "nrColegio": "287",
+            "cidade": "Pombal - PB",
+            "situacao": "Ativo",
+            "fundacao": "12/02/2012",
+            "instalacao": "24/06/2012",
+            "anuidade":  "31/03/2026",
+            "gestao": "2025/2027",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "Ugo José Bezerra Ugulino",
+                    "idDm": "106695"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "Italo Ferreira de Araujo",
+                    "idDm": "89085"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "Geovany Monteiro Sousa",
+                    "idDm": "94547"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "Evandro Junqueira de Almeida Filho",
+                    "idDm": "90096"
+                }
+            ]
+        },
+        {
+            "name": "José Guedes Pinheiro",
+            "nrColegio": "303",
+            "cidade": "Campina Grande - PB",
+            "situacao": "Inativo",
+            "fundacao": "20/09/2020",
+            "instalacao": "20/09/2020",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Matheus Victor Lopes de Sousa",
+            "nrColegio": "324",
+            "cidade": "Pombal - PB",
+            "situacao": "Ativo",
+            "fundacao": "12/06/2021",
+            "instalacao": "13/06/2021",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Guardiões do Rio Vermelho",
+            "nrColegio": "328",
+            "cidade": "Rio Tinto - PB",
+            "situacao": "Ativo",
+            "fundacao": "10/07/2021",
+            "instalacao": "12/07/2021",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Francisco Romano Neto",
+            "nrColegio": "415",
+            "cidade": "Uiraúna - PB",
+            "situacao": "Ativo",
+            "fundacao": "12/07/2022",
+            "instalacao": "12/07/2022",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Templários do Piemont",
+            "nrColegio": "424",
+            "cidade": "Alagoa Grande - PB",
+            "situacao": "Ativo",
+            "fundacao": "30/07/2022",
+            "instalacao": "30/07/2022",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Francisco de Assis Alves Dantas",
+            "nrColegio": "472",
+            "cidade": "São João do Rio do Peixe - PB",
+            "situacao": "Ativo",
+            "fundacao": "06/08/2022",
+            "instalacao": "28/03/2023",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "José Alves da Silva",
+            "nrColegio": "502",
+            "cidade": "Brejo do Cruz - PB",
+            "situacao": "Ativo",
+            "fundacao": "27/08/2023",
+            "instalacao": "09/09/2023",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Guardiões do Real Segredo",
+            "nrColegio": "509",
+            "cidade": "João Pessoa - PB",
+            "situacao": "Ativo",
+            "fundacao": "21/10/2023",
+            "instalacao": "22/10/2023",
+            "anuidade":  "31/03/2023",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Tio José Rociene de Almeida",
+            "nrColegio": "546",
+            "cidade": "Piancó - PB",
+            "situacao": "Ativo",
+            "fundacao": "23/09/2024",
+            "instalacao": "23/09/2024",
+            "anuidade":  "31/03/2025",
+            "gestao": "2024/2025",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "",
+                    "idDm": ""
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "",
+                    "idDm": ""
+                }
+            ]
+        },
+        {
+            "name": "Guardiões da Cruz Templária",
+            "nrColegio": "558",
+            "cidade": "Patos - PB",
+            "situacao": "Ativo",
+            "fundacao": "06/02/2025",
+            "instalacao": "12/02/2025",
+            "anuidade":  "31/03/2026",
+            "gestao": "2025/2026",
+            "brasao": "assets/img/colegios/colegio_sem_brasao.png",
+            "social": [
+                {
+                    "icone": "",
+                    "nome": "Instagram",
+                    "url": ""
+                }
+            ],
+            "diretoria": [
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Presidente",
+                    "nome": "Matheus Guedes de Moura",
+                    "idDm": "64330"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Vice-Presidente",
+                    "nome": "Marcos Henrique Araujo",
+                    "idDm": "117821"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral",
+                    "nome": "Pedro Ferreira Neto",
+                    "idDm": "18497"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário Geral Adjunto",
+                    "nome": "Tadeu Wanderley Guedes",
+                    "idDm": "103452"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral",
+                    "nome": "Victor Dantas Oliveira",
+                    "idDm": "27789"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Tesoureiro Geral Adjunto",
+                    "nome": "Antonio Lisboa da Silva Junior",
+                    "idDm": "101028"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social",
+                    "nome": "Francisco Jose Formiga Soares",
+                    "idDm": "18552"
+                },
+                {
+                    "foto": "assets/img/diretoria/user_senior.jpg",
+                    "cargo": "Secretário de Assistência Social Adjunto",
+                    "nome": "Leilson Rocha Bezerra",
+                    "idDm": "93282"
+                }
+            ]
+        }
+    ]
+}

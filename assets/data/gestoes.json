@@ -1,0 +1,238 @@
+{
+    "gestoes": [
+        {
+            "periodo": "2024 - Atualmente",
+            "presidente": {
+                "nome": "Emanuel Gomes Ferreira da Silva",
+                "capitulo": "João Pessoa Nº 011",
+                "colegio": "João Pessoa Nº 001"
+            },
+            "vice": {
+                "nome": "João Meireles da Silva Filho",
+                "capitulo": "Príncipe da Paz Nº 038",
+                "colegio": "Tio José Ivan de Alencar e Silva Nº 029"
+            }
+        },
+        {
+            "periodo": "2022 - 2024",
+            "presidente": {
+                "nome": "Jurandir Garcia dos Santos Neto",
+                "capitulo": "Tio Severino Ferreira da Nóbrega Nº 385",
+                "colegio": "Cavaleiros da Alvorada Nº 112"
+            },
+            "vice": {
+                "nome": "Jose Francisco de Sousa Junior",
+                "capitulo": "Venerável Luiz Gonzaga da Costa Nº 770",
+                "colegio": "Gilberto Henriques da Fonseca Nº 169"
+            }
+        },
+        {
+            "periodo": "2020 - 2022",
+            "presidente": {
+                "nome": "Vitor Pereira Nascimento",
+                "capitulo": "João Pessoa Nº 11",
+                "colegio": "João Pessoa Nº 01"
+            },
+            "vice": {
+                "nome": "Joacy Rodrigues dos Santos Junior",
+                "capitulo": "Príncipe da Paz Nº 038",
+                "colegio": "Tio José Ivan de Alencar e Silva Nº 029"
+            }
+        },
+        {
+            "periodo": "2018 - 2020",
+            "presidente": {
+                "nome": "Neemias Emanuel Batista Ximenes",
+                "capitulo": "Deus, Pátria e Família Nº 008",
+                "colegio": "Deus, Pátria e Família Nº 005"
+            },
+            "vice": {
+                "nome": "Hiago Alves Freitas Rosado Xavier",
+                "capitulo": "Tio Severino Ferreira da Nóbrega Nº 385",
+                "colegio": "Cavaleiros da Alvorada Nº 112"
+            }
+        },
+        {
+            "periodo": "2016 - 2018",
+            "presidente": {
+                "nome": "Jamaelson Fonseca Costa",
+                "capitulo": "Deus, Pátria e Família Nº 008",
+                "colegio": "Deus, Pátria e Família Nº 005"
+            },
+            "vice": {
+                "nome": "Jucélio Bezerra Linhares",
+                "capitulo": "João Pessoa Nº 011",
+                "colegio": "João Pessoa Nº 001"
+            }
+        },
+        {
+            "periodo": "2015 - 2016",
+            "presidente": {
+                "nome": "Antonio Odon da Silva Neto",
+                "capitulo": "João Pessoa Nº 011",
+                "colegio": "João Pessoa Nº 001"
+            },
+            "vice": {
+                "nome": "Herbert Morais Mendes Barros",
+                "capitulo": "Deus, Pátria e Família Nº 008",
+                "colegio": "Deus, Pátria e Família Nº 005"
+            }
+        },
+        {
+            "periodo": "2014 - 2015",
+            "presidente": {
+                "nome": "Carlos José Crespo Santos",
+                "capitulo": "João Pessoa Nº 11",
+                "colegio": "João Pessoa Nº 01"
+            },
+            "vice": {
+                "nome": "Jônattas Cavalcante Alves Viana",
+                "capitulo": "Príncipe da Paz Nº 038",
+                "colegio": "Tio José Ivan de Alencar e Silva Nº 029"
+            }
+        },
+        {
+            "periodo": "2013 - 2014",
+            "presidente": {
+                "nome": "Herbert Morais Mendes Barros",
+                "capitulo": "Deus, Pátria e Família Nº 008",
+                "colegio": "Deus, Pátria e Família Nº 005"
+            },
+            "vice": {
+                "nome": "Carlos José Crespo Santos",
+                "capitulo": "João Pessoa Nº 011",
+                "colegio": "João Pessoa Nº 001"
+            }
+        },
+        {
+            "periodo": "2012 - 2013",
+            "presidente": {
+                "nome": "José Carlos Farias de Brito Filho",
+                "capitulo": "Ernani Siqueira Nº 762",
+                "colegio": "João Pessoa Nº 001"
+            },
+            "vice": {
+                "nome": "Jônattas Cavalcante Alves Viana",
+                "capitulo": "Príncipe da Paz Nº 038",
+                "colegio": "Tio José Ivan de Alencar e Silva Nº 029"
+            }
+        },
+        {
+            "periodo": "2011 - 2012",
+            "presidente": {
+                "nome": "Jefferson Fernandes de Aquino",
+                "capitulo": "Príncipe da Paz Nº 038",
+                "colegio": "Tio José Ivan de Alencar e Silva Nº 029"
+            },
+            "vice": {
+                "nome": "José Carlos Farias de Brito Filho",
+                "capitulo": "Ernani Siqueira Nº 762",
+                "colegio": "João Pessoa Nº 001"
+            }
+        },
+        {
+            "periodo": "2010 - 2011",
+            "presidente": {
+                "nome": "Janyeliton Alencar de Oliveira",
+                "capitulo": "João Pessoa Nº 11",
+                "colegio": "João Pessoa Nº 01"
+            },
+            "vice": {
+                "nome": "Herbert Morais Mendes Barros",
+                "capitulo": "Deus, Pátria e Família Nº 008",
+                "colegio": "Deus, Pátria e Família Nº 005"
+            }
+        },
+        {
+            "periodo": "2009 - 2010",
+            "presidente": {
+                "nome": "Yurick Willander de Azevedo Lacerda",
+                "capitulo": "Ivon Leite de Azevedo Nº 645",
+                "colegio": ""
+            },
+            "vice": {
+                "nome": "Herbert Morais Mendes Barros",
+                "capitulo": "Deus, Pátria e Família Nº 008",
+                "colegio": "Deus, Pátria e Família Nº 005"
+            }
+        },
+        {
+            "periodo": "2008 - 2009",
+            "presidente": {
+                "nome": "Duilio Levir Cavalcanti Adolfo",
+                "capitulo": "João Pessoa Nº 011",
+                "colegio": "João Pessoa Nº 001"
+            },
+            "vice": {
+                "nome": "Laesso Antonio Souza Abreu",
+                "capitulo": "Príncipe da Paz Nº 038",
+                "colegio": "Tio José Ivan de Alencar e Silva Nº 029"
+            }
+        },
+        {
+            "periodo": "2007 - 2008",
+            "presidente": {
+                "nome": "Duilio Levir Cavalcanti Adolfo",
+                "capitulo": "João Pessoa Nº 011",
+                "colegio": "João Pessoa Nº 001"
+            },
+            "vice": {
+                "nome": "Laesso Antonio Souza Abreu",
+                "capitulo": "Príncipe da Paz Nº 038",
+                "colegio": "Tio José Ivan de Alencar e Silva Nº 029"
+            }
+        },
+        {
+            "periodo": "2006 - 2007",
+            "presidente": {
+                "nome": "Normando Mendes Ribeiro Filho",
+                "capitulo": "Águia de Haya Nº 624",
+                "colegio": "Águia de Haya Nº 192"
+            },
+            "vice": {
+                "nome": "Sostenys Gomes de Sousa",
+                "capitulo": "Defensores do Vale e da Liberdade Nº 504",
+                "colegio": ""
+            }
+        },
+        {
+            "periodo": "2005 - 2006",
+            "presidente": {
+                "nome": "Gills Vilar Lopes",
+                "capitulo": "João Pessoa Nº 011",
+                "colegio": "João Pessoa Nº 001"
+            },
+            "vice": {
+                "nome": "",
+                "capitulo": "",
+                "colegio": ""
+            }
+        },
+        {
+            "periodo": "2004 - 2005",
+            "presidente": {
+                "nome": "Weskley Carneiro de Medeiros",
+                "capitulo": "Deus, Pátria e Família Nº 008",
+                "colegio": "Deus, Pátria e Família Nº 005"
+            },
+            "vice": {
+                "nome": "",
+                "capitulo": "",
+                "colegio": ""
+            }
+        },
+        {
+            "periodo": "2003 - 2004",
+            "presidente": {
+                "nome": "Murilo Cerqueira Doria",
+                "capitulo": "João Pessoa Nº 011",
+                "colegio": "João Pessoa Nº 001"
+            },
+            "vice": {
+                "nome": "Arquimedes Mariano Pereira",
+                "capitulo": "João Pessoa Nº 011",
+                "colegio": "João Pessoa Nº 001"
+            }
+        }
+    ]
+}

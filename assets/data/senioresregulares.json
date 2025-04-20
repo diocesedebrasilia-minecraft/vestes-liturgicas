@@ -1,0 +1,67 @@
+[
+    {
+        "capitulo": "Capítulo João Pessoa Nº 011",
+        "cidade": "João Pessoa",
+        "statusCapitulo": "Regular",
+        "seniores": [
+            {
+                "nome": "Espedito Firmo de Andrade Junior",
+                "idDeMolay": "142045",
+                "dataRegularizacao": "14/01/2025"
+            },
+            {
+                "nome": "Allan Bezerra Estevam",
+                "idDeMolay": "62512",
+                "dataRegularizacao": "22/01/2025"
+            }
+        ]
+    },
+    {
+        "capitulo": "Capítulo Cavaleiros Templários de Pombal Nº 363",
+        "cidade": "Pombal",
+        "statusCapitulo": "Regular",
+        "seniores": [
+            {
+                "nome": "João Marcelo Almeida Formiga de Queiroga",
+                "idDeMolay": "107540",
+                "dataRegularizacao": "14/01/2025"
+            }
+        ]
+    },
+    {
+        "capitulo": "Capítulo Tio Severino Ferreira da Nóbrega Nº 385",
+        "cidade": "Catolé do Rocha",
+        "statusCapitulo": "Regular",
+        "seniores": [
+            {
+                "nome": "Francisco Jordanio Alves de Melo",
+                "idDeMolay": "14990",
+                "dataRegularizacao": "10/01/2025"
+            }
+        ]
+    },
+    {
+        "capitulo": "Capítulo Águia de Haya Nº 624",
+        "cidade": "Areia",
+        "statusCapitulo": "Regular",
+        "seniores": [
+            {
+                "nome": "Matheus Guedes de Moura",
+                "idDeMolay": "64330",
+                "dataRegularizacao": "21/01/2025"
+            }
+        ]
+    },
+    {
+        "capitulo": "Capítulo Defensores do Rio Vermelho Nº 884",
+        "cidade": "Rio Tinto",
+        "statusCapitulo": "Regular",
+        "seniores": [
+            {
+                "nome": "José Luiz Henrique Oliveira Rodrigues",
+                "idDeMolay": "109112",
+                "dataRegularizacao": "09/01/2025"
+            }
+        ]
+    }
+]

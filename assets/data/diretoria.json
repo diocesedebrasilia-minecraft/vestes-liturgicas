@@ -1,0 +1,55 @@
+[
+    {
+        "cargo": "Presidente",
+        "nome": "Emanuel Gomes",
+        "foto": "assets/img/diretoria/presidente.png",
+        "colegio": "João Pessoa Nº 001",
+        "capitulo": "João Pessoa Nº 011",
+        "socialMedia": [
+            {
+                "link": "https://wa.me/83991458280",
+                "icone": "fab fa-whatsapp",
+                "name": "Whatsapp"
+            },
+            {
+                "link": "mailto:presidente@demolayalumnipb.com.br",
+                "icone": "fab fa-google",
+                "name": "Gmail"
+            },
+            {
+                "link": "https://linkedin.com/in/emanuelgomesqa",
+                "icone": "fab fa-linkedin-in",
+                "name": "LinkedIn"
+            },
+            {
+                "link": "https://www.instagram.com/emanuelqa_",
+                "icone": "fab fa-instagram",
+                "name": "Instagram"
+            }
+        ]
+    },
+    {
+        "cargo": "Vice-Presidente",
+        "nome": "João Meireles",
+        "foto": "assets/img/diretoria/vicepresidente.png",
+        "colegio": "Tio José Ivan de Alencar e Silva Nº 029",
+        "capitulo": "Príncipe da Paz Nº 038",
+        "socialMedia": [
+            {
+                "link": "https://wa.me/83993460103",
+                "icone": "fab fa-whatsapp",
+                "name": "Whatsapp"
+            },
+            {
+                "link": "mailto:vice@demolayalumnipb.com.br",
+                "icone": "fab fa-google",
+                "name": "Gmail"
+            },
+            {
+                "link": "https://www.instagram.com/enf.joaomdsf",
+                "icone": "fab fa-instagram",
+                "name": "Instagram"
+            }
+        ]
+    }
+]
