@@ -28,6 +28,19 @@
     z-index: 99999;
 }
 
+#logo-icon {
+    max-height: 80px;  /* Defina o máximo de altura do logo */
+    width: auto;       /* Mantém a proporção */
+}
+
+#letradiocese {
+    display: block;       /* Faz a imagem se comportar como bloco */
+    margin: 20px auto;     /* 20px de margem em cima e embaixo, auto nas laterais para centralizar */
+    width: 30%;
+    height: auto;
+}
+
+
 #spinner.show {
     transition: opacity .5s ease-out, visibility 0s linear 0s;
     visibility: visible;
